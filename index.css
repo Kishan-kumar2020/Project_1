@@ -1,0 +1,15 @@
+body {
+    background-color: aqua;
+}
+#d1 {
+    height: 500px;
+    background-color: blue;
+}
+#d2 {
+    height: 500px;
+    background-color: aquamarine;
+}
+#d3 {
+    height: 500px;
+    background-color: rgb(159, 221, 44);
+}
